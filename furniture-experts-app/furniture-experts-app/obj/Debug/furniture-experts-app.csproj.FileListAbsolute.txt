@@ -1,0 +1,10 @@
+H:\com-176\projects\furniture-experts\furniture-experts-app\furniture-experts-app\obj\Debug\furniture-experts-app.csprojResolveAssemblyReference.cache
+H:\com-176\projects\furniture-experts\furniture-experts-app\furniture-experts-app\obj\Debug\furniture_experts_app.formFurniture.resources
+H:\com-176\projects\furniture-experts\furniture-experts-app\furniture-experts-app\obj\Debug\furniture_experts_app.Properties.Resources.resources
+H:\com-176\projects\furniture-experts\furniture-experts-app\furniture-experts-app\obj\Debug\furniture-experts-app.csproj.GenerateResource.Cache
+H:\com-176\projects\furniture-experts\furniture-experts-app\furniture-experts-app\obj\Debug\furniture-experts-app.csproj.CoreCompileInputs.cache
+H:\com-176\projects\furniture-experts\furniture-experts-app\furniture-experts-app\bin\Debug\furniture-experts-app.exe.config
+H:\com-176\projects\furniture-experts\furniture-experts-app\furniture-experts-app\bin\Debug\furniture-experts-app.exe
+H:\com-176\projects\furniture-experts\furniture-experts-app\furniture-experts-app\bin\Debug\furniture-experts-app.pdb
+H:\com-176\projects\furniture-experts\furniture-experts-app\furniture-experts-app\obj\Debug\furniture-experts-app.exe
+H:\com-176\projects\furniture-experts\furniture-experts-app\furniture-experts-app\obj\Debug\furniture-experts-app.pdb
