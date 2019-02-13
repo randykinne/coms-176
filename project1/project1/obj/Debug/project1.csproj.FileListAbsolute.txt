@@ -1,0 +1,10 @@
+H:\com-176\projects\project1\project1\project1\obj\Debug\project1.csprojResolveAssemblyReference.cache
+H:\com-176\projects\project1\project1\project1\obj\Debug\project1.frmBozoAuto.resources
+H:\com-176\projects\project1\project1\project1\obj\Debug\project1.Properties.Resources.resources
+H:\com-176\projects\project1\project1\project1\obj\Debug\project1.csproj.GenerateResource.Cache
+H:\com-176\projects\project1\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+H:\com-176\projects\project1\project1\project1\bin\Debug\project1.exe.config
+H:\com-176\projects\project1\project1\project1\bin\Debug\project1.exe
+H:\com-176\projects\project1\project1\project1\bin\Debug\project1.pdb
+H:\com-176\projects\project1\project1\project1\obj\Debug\project1.exe
+H:\com-176\projects\project1\project1\project1\obj\Debug\project1.pdb
