@@ -1,0 +1,10 @@
+c:\users\djh22\source\repos\program3\program3\bin\Debug\program3.exe.config
+c:\users\djh22\source\repos\program3\program3\bin\Debug\program3.exe
+c:\users\djh22\source\repos\program3\program3\bin\Debug\program3.pdb
+c:\users\djh22\source\repos\program3\program3\obj\Debug\program3.csprojAssemblyReference.cache
+c:\users\djh22\source\repos\program3\program3\obj\Debug\program3.frmTickets.resources
+c:\users\djh22\source\repos\program3\program3\obj\Debug\program3.Properties.Resources.resources
+c:\users\djh22\source\repos\program3\program3\obj\Debug\program3.csproj.GenerateResource.cache
+c:\users\djh22\source\repos\program3\program3\obj\Debug\program3.csproj.CoreCompileInputs.cache
+c:\users\djh22\source\repos\program3\program3\obj\Debug\program3.exe
+c:\users\djh22\source\repos\program3\program3\obj\Debug\program3.pdb
