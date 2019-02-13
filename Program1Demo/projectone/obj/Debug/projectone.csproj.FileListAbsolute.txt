@@ -1,0 +1,10 @@
+H:\com-176\projects\Program1Demo\projectone\bin\Debug\projectone.exe.config
+H:\com-176\projects\Program1Demo\projectone\bin\Debug\projectone.exe
+H:\com-176\projects\Program1Demo\projectone\bin\Debug\projectone.pdb
+H:\com-176\projects\Program1Demo\projectone\obj\Debug\projectone.csprojResolveAssemblyReference.cache
+H:\com-176\projects\Program1Demo\projectone\obj\Debug\projectone.Properties.Resources.resources
+H:\com-176\projects\Program1Demo\projectone\obj\Debug\projectone.csproj.GenerateResource.Cache
+H:\com-176\projects\Program1Demo\projectone\obj\Debug\projectone.csproj.CoreCompileInputs.cache
+H:\com-176\projects\Program1Demo\projectone\obj\Debug\projectone.exe
+H:\com-176\projects\Program1Demo\projectone\obj\Debug\projectone.pdb
+H:\com-176\projects\Program1Demo\projectone\obj\Debug\projectone.formSeasons.resources

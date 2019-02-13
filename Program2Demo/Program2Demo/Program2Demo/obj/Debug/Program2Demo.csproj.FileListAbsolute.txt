@@ -1,0 +1,10 @@
+H:\com-176\projects\Program2Demo\Program2Demo\Program2Demo\bin\Debug\Program2Demo.exe.config
+H:\com-176\projects\Program2Demo\Program2Demo\Program2Demo\bin\Debug\Program2Demo.exe
+H:\com-176\projects\Program2Demo\Program2Demo\Program2Demo\bin\Debug\Program2Demo.pdb
+H:\com-176\projects\Program2Demo\Program2Demo\Program2Demo\obj\Debug\Program2Demo.csprojResolveAssemblyReference.cache
+H:\com-176\projects\Program2Demo\Program2Demo\Program2Demo\obj\Debug\Program2Demo.frmCalculator.resources
+H:\com-176\projects\Program2Demo\Program2Demo\Program2Demo\obj\Debug\Program2Demo.Properties.Resources.resources
+H:\com-176\projects\Program2Demo\Program2Demo\Program2Demo\obj\Debug\Program2Demo.csproj.GenerateResource.Cache
+H:\com-176\projects\Program2Demo\Program2Demo\Program2Demo\obj\Debug\Program2Demo.csproj.CoreCompileInputs.cache
+H:\com-176\projects\Program2Demo\Program2Demo\Program2Demo\obj\Debug\Program2Demo.exe
+H:\com-176\projects\Program2Demo\Program2Demo\Program2Demo\obj\Debug\Program2Demo.pdb
