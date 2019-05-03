@@ -1,0 +1,17 @@
+H:\com-176\projects\finalproject\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+H:\com-176\projects\finalproject\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+H:\com-176\projects\finalproject\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+H:\com-176\projects\finalproject\FinalProject\FinalProject\obj\Debug\FinalProject.frmHome.resources
+H:\com-176\projects\finalproject\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+H:\com-176\projects\finalproject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+H:\com-176\projects\finalproject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+H:\com-176\projects\finalproject\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+H:\com-176\projects\finalproject\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+H:\com-176\projects\finalproject\FinalProject\FinalProject\bin\Debug\Interop.WMPLib.dll
+H:\com-176\projects\finalproject\FinalProject\FinalProject\bin\Debug\AxInterop.WMPLib.dll
+H:\com-176\projects\finalproject\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+H:\com-176\projects\finalproject\FinalProject\FinalProject\obj\Debug\Interop.WMPLib.dll
+H:\com-176\projects\finalproject\FinalProject\FinalProject\obj\Debug\AxInterop.WMPLib.dll
+H:\com-176\projects\finalproject\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.ResolveComReference.cache
+H:\com-176\projects\finalproject\FinalProject\FinalProject\obj\Debug\FinalProject.frmNewPlaylist.resources
+H:\com-176\projects\finalproject\FinalProject\FinalProject\obj\Debug\FinalProject.frmEditPlaylist.resources
