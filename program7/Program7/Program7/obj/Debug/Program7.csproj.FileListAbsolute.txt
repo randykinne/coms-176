@@ -1,0 +1,10 @@
+H:\com-176\projects\program7\Program7\Program7\bin\Debug\Program7.exe.config
+H:\com-176\projects\program7\Program7\Program7\bin\Debug\Program7.exe
+H:\com-176\projects\program7\Program7\Program7\bin\Debug\Program7.pdb
+H:\com-176\projects\program7\Program7\Program7\obj\Debug\Program7.frmNatureExcursions.resources
+H:\com-176\projects\program7\Program7\Program7\obj\Debug\Program7.Properties.Resources.resources
+H:\com-176\projects\program7\Program7\Program7\obj\Debug\Program7.csproj.GenerateResource.Cache
+H:\com-176\projects\program7\Program7\Program7\obj\Debug\Program7.csproj.CoreCompileInputs.cache
+H:\com-176\projects\program7\Program7\Program7\obj\Debug\Program7.exe
+H:\com-176\projects\program7\Program7\Program7\obj\Debug\Program7.pdb
+H:\com-176\projects\program7\Program7\Program7\obj\Debug\Program7.csprojResolveAssemblyReference.cache
